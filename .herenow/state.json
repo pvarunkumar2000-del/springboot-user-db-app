@@ -1,0 +1,10 @@
+{
+  "publishes": {
+    "snowy-lotus-8ydx": {
+      "siteUrl": "https://snowy-lotus-8ydx.here.now/",
+      "claimToken": "2edc7e65075f18a05352758303d83af51eac25ceb64aa7e42394b6a9ae67bd8e",
+      "claimUrl": "https://here.now/claim?slug=snowy-lotus-8ydx&token=2edc7e65075f18a05352758303d83af51eac25ceb64aa7e42394b6a9ae67bd8e",
+      "expiresAt": "2026-06-05T13:32:28.503Z"
+    }
+  }
+}
